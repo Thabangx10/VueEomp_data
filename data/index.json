@@ -10,7 +10,7 @@
         {
             "id": "2",
             "name": "Currenct Exchange App",
-            "image" : "https://i.postimg.cc/NM9db76P/SAWS-logo-FINAL.png",
+            "image" : "https://i.postimg.cc/T1KF3XJ0/1afebfdc636d1f81bf92c10636ef2d72-identity-design-brand-identity.jpg",
             "website": "https://benevolent-faun-60e8be.netlify.app/",
             "description": "Developed a currency converter application to convert South African Rand (ZAR) to various global currencies. Implemented JavaScript functionality to perform real-time currency conversions based on user input Integrated currency exchange rates using an API, ensuring up-to-date and accurate conversion rates. Designed an intuitive user interface using HTML, CSS, and Bootstrap for a seamless user experience.Tested and validated the application's performance and functionality across different browsers and devices."
         },
@@ -129,7 +129,7 @@
             "id": "6",
             "name": "Siyamthanda Mazokwana",
             "image" : "https://i.postimg.cc/JhDc4SRc/C12-Siyamthanda-Mazokwana-2.jpg",
-            "feedback": "Thabang is a dedicated and goal driven individual. He always goes an extra mile in everything that he does. He is respectful and panctual"
+            "feedback": "Thabang is a dedicated and goal driven individual. He always goes an extra mile in everything that he does. He is respectful and panctual. "
         }
     ]
 }
