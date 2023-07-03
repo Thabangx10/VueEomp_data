@@ -136,9 +136,9 @@
             "id": "3",
             "year": "2023",
             "description": "Software Engineering",
-            "place": "Alx-Africa",
+            "place": "Alx-Africa ",
             "type": "Specialised training",
-            "certificate": "In progress"
+            "certificate": " "
         },
         {
             "id": "4",
@@ -150,7 +150,7 @@
         },
         {
             "id": "5",
-            "year": "2023",
+            "year": "2022",
             "description": "Introduction to Data and Data Science",
             "place": "365 Data science",
             "type": "Specialised training",
@@ -171,14 +171,6 @@
             "place": "Krugersdorp, Noordheuwel",
             "type": "Certificate",
             "certificate": "Diploma"
-        },
-        {
-            "id": "8",
-            "year": "2022",
-            "description": "JavaScript",
-            "place": "Sololearn",
-            "type": "Specialised training",
-            "certificate": "https://www.sololearn.com/certificates/JS-e2f886e78d0c"
         }
     ],
     "testimonials": [
