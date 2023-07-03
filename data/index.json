@@ -1,37 +1,116 @@
 {
+    "skills": {
+        "frontEnd": [
+            {
+                "name": "HTML",
+                "percentage": 85,
+                "color": "#97c513"
+            },
+            {
+                "name": "CSS",
+                "percentage": 70,
+                "color": "#f2545b"
+            },
+            {
+                "name": "JavaScript",
+                "percentage": null,
+                "color": "#4286f4",
+                "pendingModule": true
+            },
+            {
+                "name": "Bootstrap",
+                "percentage": 60,
+                "color": "#21ff63"
+            }
+        ],
+        "backEnd": [
+            {
+                "name": "C",
+                "percentage": 65,
+                "color": "#97c513"
+            },
+            {
+                "name": "Python",
+                "percentage": 80,
+                "color": "#f2545b"
+            },
+            {
+                "name": "MySQL",
+                "percentage": 75,
+                "color": "#4286f4"
+            },
+            {
+                "name": "Linux",
+                "percentage": 80,
+                "color": "#21ff63"
+            },
+            {
+                "name": "Git",
+                "percentage": 90,
+                "color": "red"
+            },
+            {
+                "name": "Nginx",
+                "percentage": 60,
+                "color": "#21ff63"
+            }
+        ],
+        "softSkills": [
+            {
+                "name": "Communication",
+                "description": "Being part of online communities such as Sololearn and FreeCodeCamp has helped me to hone my communication skills, a key aspect of teamwork and collaboration in the technology industry. I am convinced that these soft skills, such as my growth and grit mindset, teachability, teamwork, problem-solving, and communication skills, are critical for my success as a software engineer and will continue to serve me well in my future endeavors."
+            },
+            {
+                "name": "Teamplayer",
+                "description": "Working in peer-to-peer environments, such as my participation in the WeThinkCode boot camp, has helped me develop my ability to work collaboratively and become a good team player. In addition, my experience exploring data and math concepts on Khan Academy, combined with my participation in accelerated programs and boot camps, has allowed me to become a good problem solver, with the ability to identify complex issues and develop innovative solutions."
+            },
+            {
+                "name": "Teachable",
+                "description": "My willingness to explore and learn from various online resources, such as YouTube, Sololearn, FreeCodeCamp, and Khan Academy, demonstrates my teachability. I have always been open to new ideas and approaches to solving problems, which has helped me become a well-rounded and skilled software engineer."
+            },
+            {
+                "name": "Growth Mindset",
+                "description": "Curiosity and passion for innovation in the technology space demonstrate my growth mindset. I have always been willing to learn new things, even when faced with challenges."
+            },
+            {
+                "name": "Grind Mindset",
+                "description": "My self-taught approach, along with participation in various online courses and accelerated programs, has shown determination and grit to overcome obstacles and achieve set goals."
+            }
+        ]
+    },
     "projects": [
         {
             "id": "1",
             "name": "Web development portfolio",
-            "image" : "https://i.postimg.cc/Rh6MVfLr/HTML-and-CSS.png",
+            "image": "https://i.postimg.cc/Rh6MVfLr/HTML-and-CSS.png",
             "website": "https://clever-liger-84ce59.netlify.app/",
             "description": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices."
         },
         {
             "id": "2",
             "name": "Currenct Exchange App",
-            "image" : "https://i.postimg.cc/T1KF3XJ0/1afebfdc636d1f81bf92c10636ef2d72-identity-design-brand-identity.jpg",
+            "image": "https://i.postimg.cc/T1KF3XJ0/1afebfdc636d1f81bf92c10636ef2d72-identity-design-brand-identity.jpg",
             "website": "https://benevolent-faun-60e8be.netlify.app/",
             "description": "Developed a currency converter application to convert South African Rand (ZAR) to various global currencies. Implemented JavaScript functionality to perform real-time currency conversions based on user input Integrated currency exchange rates using an API, ensuring up-to-date and accurate conversion rates. Designed an intuitive user interface using HTML, CSS, and Bootstrap for a seamless user experience.Tested and validated the application's performance and functionality across different browsers and devices."
         },
         {
             "id": "3",
             "name": "Weather Application",
-            "image" : "https://i.postimg.cc/QxYPht6D/unnamed.jpg",
+            "image": "https://i.postimg.cc/QxYPht6D/unnamed.jpg",
             "website": "https://merry-twilight-220958.netlify.app",
             "description": "Developed a responsive weather application using JavaScript to provide real-time weather updates. Implemented dynamic functionality to display weather information based on user input. Utilized the fetch method to retrieve weather data from an API by integrating an API key. Designed an intuitive user interface with HTML and CSS to enhance user experience. Demonstrated proficiency in scripting and ensuring responsiveness across different devices"
         },
         {
             "id": "4",
             "name": "JavaScript Fundamentals",
-            "image" : "https://i.postimg.cc/rFvmn5BR/js.png",
+            "image": "https://i.postimg.cc/rFvmn5BR/js.png",
             "website": "https://frabjous-lebkuchen-87026c.netlify.app/",
-            "description": "The website will hold my links to various dynamic applications built to enhance my personal and knowlagable development in the field of interperated languages. JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page"
+            "description": "The website will hold my links to various dynamic applications built to enhance my personal and knowledgeable development in the field of interpreted languages. JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions. It also enables users to load content into a document without reloading the entire page"
         },
         {
             "id": "5",
             "name": "UI Todo-List",
-            "image" : "https://i.postimg.cc/MZfNqRcY/1f86398b6b66f39b2d85ac5cc75387f5.png",
+            "image": "https://i.postimg.cc/MZfNqRcY/1f86398b6b66f39b2d85ac5cc75387f5.png",
             "website": "https://lambent-chebakia-13c424.netlify.app/",
             "description": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices."
         }
@@ -39,97 +118,93 @@
     "education": [
         {
             "id": "1",
-            "year": "2024" ,
+            "year": "2024",
             "description": "Web and Software development",
             "place": "Life Choices Academy",
             "type": "Specialised training",
-            "certificate": "https: //api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png" 
+            "certificate": "https: //api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png"
         },
         {
             "id": "2",
-            "year": "2023" ,
+            "year": "2023",
             "description": "SQL Intermediate",
             "place": "Sololearn",
             "type": "Specialised training",
-            "certificate": "https://api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png" 
+            "certificate": "https://api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png"
         },
         {
             "id": "3",
-            "year": "2023" ,
+            "year": "2023",
             "description": "Software Engineering",
             "place": "Alx-Africa",
             "type": "Specialised training",
-            "certificate": "In progress" 
+            "certificate": "In progress"
         },
         {
             "id": "4",
-            "year": "2022" ,
+            "year": "2022",
             "description": "SQL",
             "place": "Sololearn",
             "type": "Specialised training",
-            "certificate": "https://www.sololearn.com/certificates/CT-FJG8LGTT" 
+            "certificate": "https://www.sololearn.com/certificates/CT-FJG8LGTT"
         },
         {
             "id": "5",
-            "year": "2023" ,
+            "year": "2023",
             "description": "Introduction to Data and Data Science",
             "place": "365 Data science",
             "type": "Specialised training",
-            "certificate": "https://learn.365datascience.com/c/215ba67a2b/" 
+            "certificate": "https://learn.365datascience.com/c/215ba67a2b/"
         },
         {
             "id": "6",
-            "year": "2020" ,
+            "year": "2020",
             "description": "Visual Merchandising",
             "place": "Queenspark",
             "type": "Certificate",
-            "certificate": "https://www.wrseta.org.za/learners/qualifications-and-learnerships" 
+            "certificate": "https://www.wrseta.org.za/learners/qualifications-and-learnerships"
         },
         {
             "id": "7",
-            "year": "2017" ,
+            "year": "2017",
             "description": "Grae 12",
             "place": "Krugersdorp, Noordheuwel",
             "type": "Certificate",
-            "certificate": "Diploma" 
-        }        
+            "certificate": "Diploma"
+        },
+        {
+            "id": "8",
+            "year": "2022",
+            "description": "JavaScript",
+            "place": "Sololearn",
+            "type": "Specialised training",
+            "certificate": "https://www.sololearn.com/certificates/JS-e2f886e78d0c"
+        }
     ],
     "testimonials": [
         {
             "id": "1",
-            "name": "Mihlali Matrose" ,
-            "image" : "https://i.postimg.cc/90f6DW0N/C12-Mihlali-Matrose-3.jpg",
-            "feedback": "Thabang is a young and pessionate person especial when it come to any digital.He is easy to with ingage as a teamate and any company would be lucky to have him."
+            "name": "Mihlali Matrose",
+            "image": "https://i.postimg.cc/90f6DW0N/C12-Mihlali-Matrose-3.jpg",
+            "feedback": "Thabang is a young and passionate person, especially when it comes to anything digital. He is easy to engage with as a teammate, and any company would be lucky to have him."
         },
         {
             "id": "2",
-            "name": "Imtiyaaz Damon" ,
-            "image" : "https://i.postimg.cc/gcVyJfZm/image-1.png",
-            "feedback": "Thabang is a strong person and very intelligent person. He helps me alot in coding and understanding the work.He is very supportive and kind"
+            "name": "Imtiyaaz Damon",
+            "image": "https://i.postimg.cc/gcVyJfZm/image-1.png",
+            "feedback": "Thabang is a strong and intelligent person. He helps me a lot in coding and understanding the work. He is very supportive and kind."
         },
         {
             "id": "3",
-            "name": "Alonso Cupido" ,
-            "image" : "https://i.postimg.cc/0yb9W1Gs/IMG-20230505-WA0000.jpg",
-            "feedback": "Thabang is a very great person he works well in a team and also works really hard , and he is always punctual. He has a good understanding of IT and web development, he would be a great asset to your team and a very reliable team member. Any team would be lucky if you were to accept him."
+            "name": "Alonso Cupido",
+            "image": "https://i.postimg.cc/0yb9W1Gs/IMG-20230505-WA0000.jpg",
+            "feedback": "Thabang is a very great person. He works well in a team and also works really hard. He is always punctual. He has a good understanding of IT and web development, and he would be a great asset to your team and a very reliable team member. Any team would be lucky to have him."
         },
         {
             "id": "4",
-            "name": "Imraan Bernksen" ,
-            "image" : "https://i.postimg.cc/s2p1LVs8/t0.jpg",
-            "feedback": "I highly recommend Thabang Kganana, a web developer with a passion for creating dynamic and functional websites.Thabang has a strong foundation in programming languages such as HTML, CSS (Bootstrap), JavaScript and is constantly learning and staying up-to-date with the latest technologies. He has attention to detail and commitment to delivering high-quality work, making them an excellent choice for any web development project."
-        },
-        {
-            "id": "5",
-            "name": "Siyamanga",
-            "image" : "https://i.postimg.cc/BbGXcKTV/C12-C2-Siyamanga-Zweni-2.jpg",
-            "feedback": "Thabang is an exceptional learner with a keen eye for detail, He is also an excellent team player who always goes above and beyond to help where needed. His determination, positive attitude, and passion for technology makes working with him easy His attention to details makes working with him an incredible experience. I have no doubt that he would be a valuable asset to your company."
-        },
-        {
-            "id": "6",
-            "name": "Siyamthanda Mazokwana",
-            "image" : "https://i.postimg.cc/JhDc4SRc/C12-Siyamthanda-Mazokwana-2.jpg",
-            "feedback": "Thabang is a dedicated and goal driven individual. He always goes an extra mile in everything that he does. He is respectful and panctual. "
+            "name": "Imraan Abrahams",
+            "image": "https://i.postimg.cc/K8MP2CpS/IMG-20200715-WA0046.jpg",
+            "feedback": "Thabang is a very hardworking, passionate, and dedicated person. He is always willing to help and support others. His coding skills are amazing, and he is always up for a challenge. Thabang is someone who is self-motivated and determined to succeed. He would be a valuable asset to any team."
         }
     ]
 }
