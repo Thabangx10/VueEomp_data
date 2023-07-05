@@ -194,9 +194,21 @@
         },
         {
             "id": "4",
-            "name": "Imraan Abrahams",
-            "image": "https://i.postimg.cc/K8MP2CpS/IMG-20200715-WA0046.jpg",
-            "feedback": "Thabang is a very hardworking, passionate, and dedicated person. He is always willing to help and support others. His coding skills are amazing, and he is always up for a challenge. Thabang is someone who is self-motivated and determined to succeed. He would be a valuable asset to any team."
+            "name": "Siyamanga Zweni",
+            "image": "https://i.postimg.cc/BbGXcKTV/C12-C2-Siyamanga-Zweni-2.jpg",
+            "feedback": "Thabang is an exceptional learner with a keen eye for detail, He is alsoan excellent team player who always goes above and beyond to help where needed. His determination, positive attitude, and passion for technology makes working with him easy His attention to details makes working with him an incredible experience. I have no doubt that he would be a valuable asset to your company."
+        },
+        {
+            "id": "5",
+            "name": "Siyamthanda-Mazokwana",
+            "image": "https://i.postimg.cc/JhDc4SRc/C12-Siyamthanda-Mazokwana-2.jpg",
+            "feedback": "Thabang is a dedicated and goal driven individual. He always goes an extra mile in everything that he does. He is respectful and panctual"
+        },
+        {
+            "id": "6",
+            "name": "Imraan Bernksen",
+            "image": "https://i.postimg.cc/s2p1LVs8/t0.jpg",
+            "feedback": "I highly recommend Thabang Kganana, an aspiring web developer with a passion for creating stunning and functional websites.Thabang has a strong foundation in programming languages such as HTML, CSS, and Bootstrap and is constantly learning and staying up-to-date with the latest technologies. Their attention to detail and commitment to delivering high-quality work make them an excellent choice for any web development project."
         }
     ]
 }
