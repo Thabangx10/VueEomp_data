@@ -1,61 +1,4 @@
 {
-    "skills": {
-        "frontEnd": [
-            {
-                "name": "HTML",
-                "percentage": 85,
-                "color": "#97c513"
-            },
-            {
-                "name": "CSS",
-                "percentage": 70,
-                "color": "#f2545b"
-            },
-            {
-                "name": "JavaScript",
-                "percentage": null,
-                "color": "#4286f4",
-                "pendingModule": true
-            },
-            {
-                "name": "Bootstrap",
-                "percentage": 60,
-                "color": "#21ff63"
-            }
-        ],
-        "backEnd": [
-            {
-                "name": "C",
-                "percentage": 65,
-                "color": "#97c513"
-            },
-            {
-                "name": "Python",
-                "percentage": 80,
-                "color": "#f2545b"
-            },
-            {
-                "name": "MySQL",
-                "percentage": 75,
-                "color": "#4286f4"
-            },
-            {
-                "name": "Linux",
-                "percentage": 80,
-                "color": "#21ff63"
-            },
-            {
-                "name": "Git",
-                "percentage": 90,
-                "color": "red"
-            },
-            {
-                "name": "Nginx",
-                "percentage": 60,
-                "color": "#21ff63"
-            }
-        ]
-    },
     "projects": [
         {
             "id": "1",
@@ -192,23 +135,88 @@
     "workplace": [
         {
             "name": "Communication",
+            "company": "Queenspark",
             "description": "Being part of online communities such as Sololearn and FreeCodeCamp has helped me to hone my communication skills, a key aspect of teamwork and collaboration in the technology industry. I am convinced that these soft skills, such as my growth and grit mindset, teachability, teamwork, problem-solving, and communication skills, are critical for my success as a software engineer and will continue to serve me well in my future endeavors."
         },
         {
             "name": "Teamplayer",
+            "company": "Queenspark",
             "description": "Working in peer-to-peer environments, such as my participation in the WeThinkCode boot camp, has helped me develop my ability to work collaboratively and become a good team player. In addition, my experience exploring data and math concepts on Khan Academy, combined with my participation in accelerated programs and boot camps, has allowed me to become a good problem solver, with the ability to identify complex issues and develop innovative solutions."
         },
         {
             "name": "Teachable",
+            "company": "Queenspark",
             "description": "My willingness to explore and learn from various online resources, such as YouTube, Sololearn, FreeCodeCamp, and Khan Academy, demonstrates my teachability. I have always been open to new ideas and approaches to solving problems, which has helped me become a well-rounded and skilled software engineer."
         },
         {
             "name": "Growth Mindset",
+            "company": "Queenspark",
             "description": "Curiosity and passion for innovation in the technology space demonstrate my growth mindset. I have always been willing to learn new things, even when faced with challenges."
         },
         {
             "name": "Grind Mindset",
+            "company": "Queenspark",
             "description": "My self-taught approach, along with participation in various online courses and accelerated programs, has shown determination and grit to overcome obstacles and achieve set goals."
+        }
+    ],
+    "backEnd": [
+        {
+            "name": "C",
+            "percentage": 65,
+            "color": "#97c513"
+        },
+        {
+            "name": "Python",
+            "percentage": 80,
+            "color": "#f2545b"
+        },
+        {
+            "name": "MySQL",
+            "percentage": 75,
+            "color": "#4286f4"
+        },
+        {
+            "name": "Linux",
+            "percentage": 80,
+            "color": "#21ff63"
+        },
+        {
+            "name": "Git",
+            "percentage": 90,
+            "color": "red"
+        },
+        {
+            "name": "Nginx",
+            "percentage": 60,
+            "color": "#21ff63"
+        }
+    ],
+    "frontEnd": [
+        {
+            "name": "HTML",
+            "percentage": 85,
+            "color": "#97c513"
+        },
+        {
+            "name": "CSS",
+            "percentage": 70,
+            "color": "#f2545b"
+        },
+        {
+            "name": "JavaScript",
+            "percentage": 60,
+            "color": "#4286f4",
+            "pendingModule": true
+        },
+        {
+            "name": "Bootstrap",
+            "percentage": 60,
+            "color": "#21ff63"
+        },
+        {
+            "name": "VueJs",
+            "percentage": 70,
+            "color": "#21ff63"
         }
     ]
 }
