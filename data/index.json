@@ -163,60 +163,60 @@
         {
             "name": "C",
             "percentage": 65,
-            "color": "#97c513"
+            "color": "#444444"
         },
         {
             "name": "Python",
             "percentage": 80,
-            "color": "#f2545b"
+            "color": "#555555"
         },
         {
             "name": "MySQL",
             "percentage": 75,
-            "color": "#4286f4"
+            "color": "#333333"
         },
         {
             "name": "Linux",
             "percentage": 80,
-            "color": "#21ff63"
+            "color": "#666666"
         },
         {
             "name": "Git",
             "percentage": 90,
-            "color": "red"
+            "color": "#222222"
         },
         {
             "name": "Nginx",
             "percentage": 60,
-            "color": "#21ff63"
+            "color": "#777777"
         }
     ],
     "frontEnd": [
         {
             "name": "HTML",
             "percentage": 85,
-            "color": "#97c513"
+            "color": "#999999"
         },
         {
             "name": "CSS",
             "percentage": 70,
-            "color": "#f2545b"
+            "color": "#888888"
         },
         {
             "name": "JavaScript",
             "percentage": 60,
-            "color": "#4286f4",
+            "color": "#777777",
             "pendingModule": true
         },
         {
             "name": "Bootstrap",
             "percentage": 60,
-            "color": "#21ff63"
+            "color": "#AAAAAA"
         },
         {
             "name": "VueJs",
             "percentage": 70,
-            "color": "#21ff63"
+            "color": "#BBBBBB"
         }
     ]
 }
