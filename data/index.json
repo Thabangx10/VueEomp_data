@@ -39,27 +39,25 @@
     "education": [
         {
             "id": "1",
-            "year": "2024",
+            "year": "2023 - 2024",
             "description": "Web and Software development",
             "place": "Life Choices Academy",
-            "type": "Specialised training",
-            "certificate": "https: //api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png"
+            "type": "Specialised training"
         },
         {
             "id": "2",
-            "year": "2023",
+            "year": " 'Apr 2023",
             "description": "SQL Intermediate",
             "place": "Sololearn",
             "type": "Specialised training",
-            "certificate": "https://api2.sololearn.com/v2/certificates/CC-AMQL1QYV/image/png"
+            "certificate": "https://drive.google.com/file/d/1eclXdkls7oM7-xc_PUt6xC869MTRmzJl/view?usp=drive_link"
         },
         {
             "id": "3",
-            "year": "2023",
+            "year": "2022 - 'Mar 2023",
             "description": "Software Engineering",
             "place": "Alx-Africa ",
-            "type": "Specialised training",
-            "certificate": " "
+            "type": "Specialised training"
         },
         {
             "id": "4",
@@ -79,19 +77,19 @@
         },
         {
             "id": "6",
-            "year": "2020",
+            "year": "2019 - 2020",
             "description": "Visual Merchandising",
             "place": "Queenspark",
             "type": "Certificate",
-            "certificate": "https://www.wrseta.org.za/learners/qualifications-and-learnerships"
+            "certificate": "https://drive.google.com/file/d/1KwXqe8n-AdNaumvwT-N5NP-J1v8fLY-F/view?usp=drive_link"
         },
         {
             "id": "7",
-            "year": "2017",
-            "description": "Grae 12",
+            "year": "2012 - 2017",
+            "description": "Grade 12",
             "place": "Krugersdorp, Noordheuwel",
             "type": "Certificate",
-            "certificate": "Diploma"
+            "certificate": "https://drive.google.com/file/d/1NhHniMzsBeafOBzcYJ282_WNqd516AOI/view?usp=drive_link"
         }
     ],
     "testimonials": [
